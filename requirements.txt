@@ -1,0 +1,4 @@
+bytewax
+transformers
+torch
+sentencepiece
